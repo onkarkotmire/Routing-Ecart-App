@@ -1,0 +1,29 @@
+.main-box{
+    width: 90vw;
+    display: flex;
+    justify-content: space-around;
+    float: left;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    margin-left: 42px;
+}
+
+.box{
+width: 28%;
+height: 460px;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+align-items: center;
+box-shadow: 0 0 10px black;
+margin-bottom: 50px;
+
+}
+
+img{
+    width: 60%;
+    height: 60%;
+}
+button{
+    padding: 5px;
+}
