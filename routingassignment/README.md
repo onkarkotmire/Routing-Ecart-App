@@ -1,7 +1,7 @@
-##REACT ROUTING APPLICATION USING ADD TO CART Funcationality
+## REACT ROUTING APPLICATION USING ADD TO CART Funcationality
 
 
-##Components
+## Components
 The application consists of the following components:
 
 ## App
