@@ -23,7 +23,7 @@ Displays the list of items that have been added to the cart. Each item is displa
 ## API Integration
 The application fetches product data from the following API endpoint:
 
-## API Endpoint: https://localhost:5005/data
+## API Endpoint: http://localhost:5005/data
 Method: GET
 Response Format: JSON
 When the ProductPage component mounts, it makes a request to the API endpoint to retrieve the product data. The fetched data is then used to render the product cards.
